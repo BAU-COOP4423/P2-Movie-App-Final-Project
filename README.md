@@ -1,6 +1,8 @@
-# (Project 1) Movie App
+# (Project 2) Movie App Final Project for the Development of Project 2
 
 ![Latest Version](https://img.shields.io/badge/latestVersion-1.0-yellow) ![Java](https://img.shields.io/badge/language-java-blue) ![Minimum SDK Version](https://img.shields.io/badge/minSDK-21-orange)
+The goal of this assignment is to learn how to use some Huawei services on Android projects. Account Kit for sign-in process, Push Kit for sending push notifications and on-device image classification capability of ML Kit will be used in the project. Also, you will learn to use Cloud Debugging for debugging your application on a remote Huawei device.
+Note: agconnect.json file and .jks file that are specific for the project have been added to .gitignore in this repo.
 
 ## Used Technologies
 - <a href="https://developer.android.com/jetpack/guide?gclid=EAIaIQobChMItvjx8cjo8wIVpgIGAB1e7QToEAAYASAAEgLD9fD_BwE&gclsrc=aw.ds" target="_blank">MVVM Design Pattern</a>
@@ -20,19 +22,23 @@
 
 ### With SSH
 ```
-git clone git@github.com:BAU-COOP4423/P1-Movie-App.git
+git clone git@github.com:BAU-COOP4423/P2-Movie-App-Final-Project.git
 ```
 
 ### With HTTPS
 ```
-git clone https://github.com/BAU-COOP4423/P1-Movie-App.git
+git clone https://github.com/BAU-COOP4423/P2-Movie-App-Final-Project.git
 ```
 
 ## Utilized resources
-- <a href="https://medium.com/huawei-developers/android-retrofit-recyclerview-searchview-usage-9e0be6e7ab08" target="_blank">Android Retrofit, RecyclerView, SearchView Usage</a>
-- <a href="https://medium.com/@prakash_pun/retrofit-a-simple-android-tutorial-48437e4e5a23" target="_blank">Retrofit— A simple Android tutorial</a>
-- <a href="https://medium.com/swlh/understanding-mvvm-architecture-in-android-aa66f7e1a70b" target="_blank">Understanding MVVM Architecture in Android</a>
-- <a href="https://betterprogramming.pub/create-an-app-that-uses-livedata-and-viewmodel-in-java-f8086ca94229" target="_blank">Create an App That Uses LiveData and ViewModel in Java</a>
+- <a href="https://developer.huawei.com/consumer/en/codelab/HMSPreparation/index.html#0" target="_blank">Preparation Steps of HMS Core Integration</a>
+- <a href="https://medium.com/huawei-developers-tr/cloud-debug-uygulaman%C4%B1z%C4%B1-huawei-cihazlarda-test-edin-d71ec62cba11" target="_blank">Huawei Cloud Debugging Usage</a>
+- <a href="https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050048870" target="_blank">HMS Account Kit Official Documentation</a>
+- <a href="https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/android-scenario-id-token-0000001116078504" target="_blank">HMS Account Kit Sign-In via ID Token</a>
+- <a href="https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/service-introduction-0000001050040060" target="_blank">HMS Push Kit Official Documentation</a>
+- <a href="https://developer.huawei.com/consumer/en/doc/development/hiai-Guides/service-introduction-0000001050040017" target="_blank">HMS ML Kit Official Documentation</a>
+- <a href="https://developer.huawei.com/consumer/en/doc/development/hiai-Guides/image-classification-0000001050040095" target="_blank">HMS ML Kit Image Classification</a>
+
 
 #### Note:
-> Do not hesitate to open an <a href="https://github.com/BAU-COOP4423/P1-Movie-App/issues" target="_blank">issue</a> for your questions.
+> Do not hesitate to open an <a href="https://github.com/BAU-COOP4423/P2-Movie-App-Final-Project/issues" target="_blank">issue</a> for your questions.
