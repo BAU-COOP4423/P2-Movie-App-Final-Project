@@ -6,6 +6,12 @@ The goal of this assignment is to learn how to use some Huawei services on Andro
 
 **Note: agconnect.json file and .jks file that are specific for the project have been added to .gitignore in this repo.**
 
+## Screeshots
+![PushSS1](https://user-images.githubusercontent.com/34041050/148966269-a563fd80-7bd5-4cc1-932e-11b0d330dbef.PNG)
+![PushSS2](https://user-images.githubusercontent.com/34041050/148966304-790d3108-31a9-4606-8d97-5c0c8b5827a8.PNG)
+![image](https://user-images.githubusercontent.com/34041050/148966435-b55756a5-7e77-47d8-a6d5-8ffeb66aebe0.png)
+
+
 ## Used Technologies
 - <a href="https://developer.android.com/jetpack/guide?gclid=EAIaIQobChMItvjx8cjo8wIVpgIGAB1e7QToEAAYASAAEgLD9fD_BwE&gclsrc=aw.ds" target="_blank">MVVM Design Pattern</a>
 - <a href="https://github.com/square/retrofit" target="_blank">Retrofit-2</a>
