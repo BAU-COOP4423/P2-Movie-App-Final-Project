@@ -18,6 +18,9 @@ The goal of this assignment is to learn how to use some Huawei services on Andro
 - <a href="https://developer.android.com/topic/libraries/view-binding" target="_blank">View Binding</a>
 - <a href="https://developer.android.com/guide/topics/ui/layout/recyclerview?gclid=EAIaIQobChMI3JjEh8no8wIVPIxoCR0mFAhMEAAYASAAEgK87_D_BwE&gclsrc=aw.ds" target="_blank">RecyclerView</a>
 - <a href="https://developer.android.com/topic/libraries/architecture/livedata" target="_blank">LiveData</a>
+- <a href="https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050048870" target="_blank">HMS Account Kit</a>
+- <a href="https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/service-introduction-0000001050040060" target="_blank">HMS Push Kit</a>
+- <a href="https://developer.huawei.com/consumer/en/doc/development/hiai-Guides/image-classification-0000001050040095" target="_blank">HMS ML Kit</a>
 
 ## The app has following packages
 - adapter: It contains adapter class for RecyclerView.
