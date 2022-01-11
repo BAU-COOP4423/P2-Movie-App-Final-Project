@@ -1,4 +1,4 @@
-# (Project 2) Movie App Final Project for the Development of Project 2
+# (Project 2) Movie App Final Project
 
 ![Latest Version](https://img.shields.io/badge/latestVersion-1.0-yellow) ![Java](https://img.shields.io/badge/language-java-blue) ![Minimum SDK Version](https://img.shields.io/badge/minSDK-21-orange)
 
