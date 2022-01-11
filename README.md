@@ -1,8 +1,10 @@
 # (Project 2) Movie App Final Project for the Development of Project 2
 
 ![Latest Version](https://img.shields.io/badge/latestVersion-1.0-yellow) ![Java](https://img.shields.io/badge/language-java-blue) ![Minimum SDK Version](https://img.shields.io/badge/minSDK-21-orange)
+
 The goal of this assignment is to learn how to use some Huawei services on Android projects. Account Kit for sign-in process, Push Kit for sending push notifications and on-device image classification capability of ML Kit will be used in the project. Also, you will learn to use Cloud Debugging for debugging your application on a remote Huawei device.
-Note: agconnect.json file and .jks file that are specific for the project have been added to .gitignore in this repo.
+
+**Note: agconnect.json file and .jks file that are specific for the project have been added to .gitignore in this repo.**
 
 ## Used Technologies
 - <a href="https://developer.android.com/jetpack/guide?gclid=EAIaIQobChMItvjx8cjo8wIVpgIGAB1e7QToEAAYASAAEgLD9fD_BwE&gclsrc=aw.ds" target="_blank">MVVM Design Pattern</a>
